@@ -15,7 +15,7 @@
 - 2020.11 ~ now
     - [Yagom's iOS Career Camp](https://yagom.net)
     - Camper: Jacob
-    - [[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)]
+    - [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
 
 
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=KyungminLeeDev)](https://github.com/KyungminLeeDev/)
