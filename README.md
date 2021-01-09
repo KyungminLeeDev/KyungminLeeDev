@@ -3,9 +3,19 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://kyungminleedev.github.io/)](https://kyungminleedev.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kyungmin.lee.dev@gmail.com)
 
-### Hi there 👋
+# Hi there 👋
 
 - 🌱 I’m currently learning Swift and iOS.
+
+## History
+
+- 2016.10 ~ 2019.12 
+    - [Andamiro](http://www.andamiro.com/en/)
+    - Job: Embeded programmer for Arcade game machine
+- 2020.11 ~ now
+    - [Yagom's iOS Career Camp](https://yagom.net)
+    - Camper: Jacob
+    - [[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)]
 
 
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=KyungminLeeDev)](https://github.com/KyungminLeeDev/)
