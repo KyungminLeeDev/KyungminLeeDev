@@ -7,14 +7,12 @@
 
 - 🌱 I’m currently learning Swift and iOS.
 
-## History
+## Career
 
-- 2016.10 ~ 2019.12 
-    - [Andamiro](http://www.andamiro.com/en/)
-    - Job: Embeded programmer for Arcade game machine
-- 2020.11 ~ now
-    - [Yagom's iOS Career Camp](https://yagom.net)
-    - Camper: Jacob
+- 2016.10 ~ 2019.12 worked for [Andamiro](http://www.andamiro.com/en/)
+    - Embeded programmer for Arcade game machine
+- 2020.11 ~ 2020.04 studying at [Yagom's iOS Career Camp](https://yagom.net)
+    - Camper nickname: Jacob
     - [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
 
 
