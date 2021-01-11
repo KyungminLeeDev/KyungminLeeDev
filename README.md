@@ -14,7 +14,7 @@
 - Major project  
 [![Youtube Badge](http://img.shields.io/badge/-Jurassic_World_Fallen_Kingdom-FF0000?style=flat&logo=youtube&link=https://youtu.be/A_c_KgcVX8o)](https://youtu.be/A_c_KgcVX8o)
     
-### 2020.11 ~ 2020.04 studying at [Yagom's iOS Career Camp](https://yagom.net)
+### 2020.11 ~ 2021.04 studying at [Yagom's iOS Career Camp](https://yagom.net)
 - Camper nickname: Jacob  
 [![Repository Badge](http://img.shields.io/badge/-Repository-181717?style=flat&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
 
