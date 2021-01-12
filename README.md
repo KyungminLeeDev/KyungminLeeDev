@@ -17,7 +17,7 @@
 - Embeded programmer for Arcade game machine
 - Major project  
 [![Youtube Badge](http://img.shields.io/badge/-Jurassic_World_Fallen_Kingdom-FF0000?style=flat&logo=youtube&link=https://youtu.be/A_c_KgcVX8o)](https://youtu.be/A_c_KgcVX8o)
-[![Youtube Badge](http://img.shields.io/badge/-Eiffel_Tower_2-FF0000?style=flat&logo=youtube&link=https://youtu.be/h6DJBfBWSpI)](https://youtu.be/h6DJBfBWSpI)
+[![Youtube Badge](http://img.shields.io/badge/-Eiffel_Tower_2-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/h6DJBfBWSpI)](https://youtu.be/h6DJBfBWSpI)
 
 ## Etc
 
