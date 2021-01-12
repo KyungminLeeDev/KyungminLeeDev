@@ -11,12 +11,12 @@
 
 ### 2020.11 ~ 2021.04 studying at [Yagom's iOS Career Camp](https://yagom.net)
 - Camper nickname: Jacob  
-[![Repository Badge](http://img.shields.io/badge/-Repository-181717?style=flat&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
+[![Repository Badge](http://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
 
 ### 2016.10 ~ 2019.12 worked for [Andamiro](http://www.andamiro.com/en/)
 - Embeded programmer for Arcade game machine
 - Major project  
-[![Youtube Badge](http://img.shields.io/badge/-Jurassic_World_Fallen_Kingdom-FF0000?style=flat&logo=youtube&link=https://youtu.be/A_c_KgcVX8o)](https://youtu.be/A_c_KgcVX8o)
+[![Youtube Badge](http://img.shields.io/badge/-Jurassic_World_Fallen_Kingdom-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/A_c_KgcVX8o)](https://youtu.be/A_c_KgcVX8o)
 [![Youtube Badge](http://img.shields.io/badge/-Eiffel_Tower_2-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/h6DJBfBWSpI)](https://youtu.be/h6DJBfBWSpI)
 
 ## Etc
