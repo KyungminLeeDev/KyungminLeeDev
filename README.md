@@ -19,6 +19,9 @@
 [![Youtube Badge](http://img.shields.io/badge/-Jurassic_World_Fallen_Kingdom-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/A_c_KgcVX8o)](https://youtu.be/A_c_KgcVX8o)
 [![Youtube Badge](http://img.shields.io/badge/-Eiffel_Tower_2-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/h6DJBfBWSpI)](https://youtu.be/h6DJBfBWSpI)
 
+### 2014.08 ~ 2015.08 worked for [AJIN USA](http://wooshinusa.com/ajinusa)
+- Intern & Specialist in Maintenance Department
+
 ## Etc
 
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=KyungminLeeDev)](https://github.com/KyungminLeeDev/)
