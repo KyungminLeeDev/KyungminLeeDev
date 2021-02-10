@@ -9,7 +9,7 @@
 
 ## Career
 
-- 🎓2020.11 ~ 2021.04 studying at [Yagom's iOS Career Camp](https://yagom.net)🐻📱
+- 🎓2020.11 ~ 2021.04 studying at [Yagom's iOS Career Camp](https://github.com/yagom-academy)🐻📱
     - Camper Jacob 👉
     [![Repository Badge](http://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
 
