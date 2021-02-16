@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungminLeeDev)](https://hits.seeyoufarm.com)
-[![TIL Badge](http://img.shields.io/badge/-Today%20I%20Learned-181717?style=flat-square&logo=github&link=https://kyungminleedev.github.io/categories/TIL/)](https://kyungminleedev.github.io/categories/TIL/)
+[![TIL Badge](http://img.shields.io/badge/-Today%20I%20Learned-181717?style=flat-square&logo=github&link=https://kyungminleedev.github.io/TIL/)](https://kyungminleedev.github.io/TIL/)
 [![Blog Badge](http://img.shields.io/badge/-Blog-181717?style=flat-square&logo=github&link=https://kyungminleedev.github.io/)](https://kyungminleedev.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kyungmin.lee.dev@gmail.com)
 
