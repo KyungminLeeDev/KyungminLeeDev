@@ -13,7 +13,7 @@
     [![Repository Badge](http://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)](https://github.com/KyungminLeeDev/iOS_Career_Starter_Camp)
 
 - 💰2016.10 ~ 2019.12 worked for [Andamiro](http://www.andamiro.com/en/)🕹
-    - Embeded programmer for Arcade game machine in Proudct Development Team
+    - Embeded programmer for Arcade game machine in Product Development Team
     - Major projects 👉
     [![Youtube Badge](http://img.shields.io/badge/-Jurassic_World_Fallen_Kingdom-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/A_c_KgcVX8o)](https://youtu.be/A_c_KgcVX8o)
     [![Youtube Badge](http://img.shields.io/badge/-Eiffel_Tower_2-FF0000?style=flat-square&logo=youtube&link=https://youtu.be/h6DJBfBWSpI)](https://youtu.be/h6DJBfBWSpI)
