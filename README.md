@@ -6,6 +6,16 @@
 
 - 🌱 I’m currently learning Swift and iOS.
 
+## Project
+
+- [날씨 정보](https://github.com/KyungminLeeDev/ios-weather-forecast)
+    - 🚀 현재 위치의 날씨 정보를 알려주는 앱
+    - 🗓 기간: 2021.09 ~ 2021.10
+    - 📌 사용 언어: Swift, 사용 기술: CoreLocation, URLSession, TableView
+    - 🤩 HIG 문서를 통해 UI 개선
+    - 🔧 MVC 패턴을 준수하며 문제점인 Massive-ViewController 개선
+    - 📡 API 통신을 담당하는 네트워킹 객체의 재사용을 고려한 설계
+
 ## Career
 
 - 🎓2020.11 ~ 2021.04 studied at [Yagom's iOS Career Camp](https://www.yagom-academy.kr)🐻📱
